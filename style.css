@@ -1,0 +1,40 @@
+.first{
+    background-color:rgba(156, 103, 156, 0.849);
+    width: 400px;
+    height: 60px;
+}
+.frt{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.iu{
+margin-left: 100px;
+}
+h3{
+    margin-top: 10px;
+}
+.main{
+    display: flex;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.p{
+    margin-left: 20px;
+}
+.gtr{
+    background-color: white;
+    width: 400px;
+    margin-top: 40px;
+}
+div{
+    margin-top: 150px;
+}
+.button{
+    background-color:rgba(156, 103, 156, 0.849); 
+    margin-top: 20px;
+    border-radius: 30px;
+}
+.i{
+    margin-right: 10px;
+}
